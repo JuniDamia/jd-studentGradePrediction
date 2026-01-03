@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🏫 Student Grade Prediction
 
-Description of the app ...
+This web application predicts a student's **Final Grade** based on multiple academic and behavioural factors.  
+It uses a **Linear Regression model (80:20 split)** trained on a cleaned student performance dataset.
+
+The app is built using **Streamlit**, allowing users to input features and instantly get predicted student performance.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jd-studentGradePrediction.streamlit.app/)
 
 ## GitHub Codespaces
 
